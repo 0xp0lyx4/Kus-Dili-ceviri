@@ -1,0 +1,10 @@
+var kelime = "Merhaba Dünya";
+kelime = kelime.replaceAll('a', 'aga');
+kelime = kelime.replaceAll('e', 'ege');
+kelime = kelime.replaceAll('u', 'ugu');
+kelime = kelime.replaceAll('ı', 'igi');
+kelime = kelime.replaceAll('i', 'igi');
+kelime = kelime.replaceAll('ü', 'ugu');
+kelime = kelime.replaceAll('o', 'ogo');
+kelime = kelime.replaceAll('ö', 'ogo');
+console.log(kelime);
